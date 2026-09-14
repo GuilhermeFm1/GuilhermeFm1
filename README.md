@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou do Rio de Janeiro<br><br>- 🔭 Atualmente procuro uma vaga de Desenvolvedor Jr | Analista de Dados Jr.<br>- 📚 Sigo desenvolvendo mais na linguagem Python.</p>
+<p data-importer="text" align="left">Sou do Rio de Janeiro<br><br>- 🔭 Atualmente procuro uma vaga de Desenvolvedor Jr | Analista de Dados Jr.<br>- 📚 Me desenvolvendo mais na linguagem Python.</p>
 
 ###
 
